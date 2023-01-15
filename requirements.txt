@@ -1,0 +1,4 @@
+python
+flask (pip install flask)
+Flask-SQLAlchemy (pip install flask-SQLAlchemy)
+flask-login (pip install flask-login)
